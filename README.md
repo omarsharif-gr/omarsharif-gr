@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @omarsharif-gr
 - 👀 I’m interested in building, securing and developing applications by using my knowledge in Cyber Security IoT and full stack development. I have also dipped into robotics    and AI using arduino 🤖.
 - 🌱 I’m currently working on a tech for good application for a charity.
-- 💞️ I’m looking to collaborate on anything that challenges and intrigues me (from web development and security to robotics and AI).
+- 💞️ I’m looking to collaborate on anything that challenges and intrigues me (from IoT projects, web development and Cyber security to robotics and AI).
 - 📫 You can reach me on omarsharif.os@yahoo.com
 
 <!---
